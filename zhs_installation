@@ -16,3 +16,6 @@ vim ~/.zshrc file
 zsh-autosuggestions
 zsh-syntax-highlighting
 )
+#last run the following command on terminal
+source ~/.zshrc
+zsh
